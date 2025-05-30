@@ -1,37 +1,36 @@
 
-# GCN Ghost Chase - Type A
+# GCN Matrix - Type A
 
 
 ### About this document / Introduction
 
 The purpose of this document is to provide some information about
-GCN Ghost Chase - Type A.
+GCN Matrix - Type A.
 
 
-### About GCN Ghost Chase - Type A
+### About GCN Matrix - Type A
 
-GCN Ghost Chase is an arcade style game developed by Stuart Antony
+GCN Ghost Chase is an strategy style game developed by Stuart Antony
 Brereton and the Great Collective Nobody.
 
-GCN Ghost Chase was forked from "Ghost Chase" by Neal Cavalier-Smith
-and Graham White, published in 1983 in the book "49 Explosive Games for
-the ZX Spectrum" by Interface Publications which was authored by
-Tim Hartnell - ISBN 0 907563 53 8.
+GCN Matrix was forked from "Matrix" by T.J. Marrow/James Marrow,
+published in the June 1983 issue of "Sinclair Programs" magazine by
+ECC Publications of London in 1983 - ISSN No. 0263-0265.
 
 The "Type A" designation in this case means that this fork shall use
-the same flat two dimensional graphics with top-down viewpoint during
-gameplay as the original "Ghost Chase" program.
+the same alphanumeric based interface during gameplay as the original
+"Matrix" program.
 
 
 ### Implementations
 
-Implementations are forks of GCN Ghost Chase - Type A. The concept behind
+Implementations are forks of GCN Matrix - Type A. The concept behind
 this scheme is to provide flexibility to attempt to "implement" the
 same general program using different development methods.
 
 The implementations that have currently been released are as follows:
 
-- Imp00001 - [ Target platform(s): Sinclair ZX Spectrum compatible hardware and software ]
+- Imp00001 - [ Target platform(s): Hardware and software that is compatible with Sinclair ZX81 systems that have 16KB of memory]
     
     The purpose of this implementation is to predominantly use the
     Sinclair 48 BASIC programming language to develop versions of
