@@ -31,6 +31,8 @@ same general program using different development methods.
 The implementations that have currently been released are as follows:
 
 - Imp00001 - [ Target platform(s): Hardware and software that is compatible with Sinclair ZX81 systems that have 16KB of memory]
+
+- Imp00001 - [ Target platform(s): Hardware and software that is compatible with Sinclair ZX81 systems that have 16KB of memory]( /Implentations/GCN_Ghost_Chase-tA-Imp00001-Changelog.txt)
     
     The purpose of this implementation is to predominantly use the
     Sinclair 48 BASIC programming language to develop versions of
