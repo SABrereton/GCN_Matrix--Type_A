@@ -24,4 +24,4 @@ any textual communication shall be in the language "British English".
 
 - Images
 
-  [Version 1 - Running on the Sinclair ZX81 emulator EightOne Version 1.30](../Images/imp00001-v1--capture01.png "version 1 of implementation Imp00001")
+  [Version 1 - Running on the Sinclair ZX81 emulator EightOne Version 1.30](../Images/Imp00001-v1--capture01.png "Version 1 of implementation Imp00001")
