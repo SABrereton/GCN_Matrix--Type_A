@@ -1,14 +1,14 @@
 
-# GCN Ghost Chase - Type A
+# GCN Matrix - Type A - Imp00001
 
 
 ### About this document / Introduction
 
 The purpose of this document is to provide some information about
-GCN Ghost Chase - Type A.
+GCN Matrix - Type A - Imp00001.
 
 
-### About GCN Ghost Chase - Type A
+### About GCN Matrix - Type A - Imp00001
 
 GCN Ghost Chase is an arcade style game developed by Stuart Antony
 Brereton and the Great Collective Nobody.
