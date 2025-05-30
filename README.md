@@ -32,53 +32,7 @@ The implementations that have currently been released are as follows:
 
 - Imp00001 - [ Target platform(s): Hardware and software that is compatible with Sinclair ZX81 systems that have 16KB of memory]
 
-- Imp00001 - [ Target platform(s): Hardware and software that is compatible with Sinclair ZX81 systems that have 16KB of memory]( /Implentations/GCN_Ghost_Chase-tA-Imp00001-Changelog.txt)
-    
-    The purpose of this implementation is to predominantly use the
-    Sinclair 48 BASIC programming language to develop versions of
-    GCN Ghost Chase - Type A that will run on Sinclair ZX Spectrum
-    compatible hardware and software.
-   
-    - Download & Changelog
-
-        [Changelog]( /Changelogs/GCN_Ghost_Chase-tA-Imp00001-Changelog.txt)\
-        [Version 1 - .TAP file and 48 BASIC Source Code]( https://github.com/SABrereton/GCN_Ghost_Chase--Type_A/releases/download/Imp00001-v1/GCN_Ghost_Chase-tA-Imp00001-v1.zip )
-
-    - Images
-
-       [Version 1 - Running on the Sinclair ZX Spectrum emulator InkSpector v2.0.0.51](/Images/imp00001-v1--capture01.png "version 1 of implementation Imp00001")
-
-- Imp00002 - [ Target platform(s): Nintendo Game Boy Color compatible hardware and software ]
-
-    The purpose of this implementation is to predominantly use
-    GB Studio 4.X to develop versions of  GCN Ghost Chase - Type A
-    that will run on Nintendo Game Boy Color compatible hardware
-    and software.
-
-    - Download & Changelog
-
-        [Changelog]( /Changelogs/GCN_Ghost_Chase-tA-Imp00002-Changelog.txt)\
-        [Version 1 - Compiled .gbc ROM file]( https://github.com/SABrereton/GCN_Ghost_Chase--Type_A/releases/download/Imp00002-v1/GCN_Ghost_Chase-tA-Imp00002-v1.zip )
-
-    - Images
-
-        [Version 1 - Running on the Game Boy Color emulator which is built-in to GB Studio 4.X](/Images/imp00002-v1--capture01.png "version 1 of implementation Imp00002")
-
-- Imp00003 - [ Target platform(s): Nintendo Game Boy compatible hardware and software ]
-
-    The purpose of this implementation is to predominantly use
-    GB Studio 4.X to develop versions of GCN Ghost Chase - Type A
-    that will run on Nintendo Game Boy compatible hardware and
-    software.
-
-    - Download & Changelog
-
-        [Changelog]( /Changelogs/GCN_Ghost_Chase-tA-Imp00003-Changelog.txt)\
-        [Version 1 - Compiled .gb ROM file]( https://github.com/SABrereton/GCN_Ghost_Chase--Type_A/releases/download/Imp00003-v3/GCN_Ghost_Chase-tA-Imp00003-v1.zip )
-
-    - Images
-
-        [Version 1 - Running on the Game Boy Color emulator which is built-in to GB Studio 4.X](/Images/imp00003-v1--capture01.png "version 1 of implementation Imp00003")
+- Imp00001 - [ Target platform(s): Hardware and software that is compatible with Sinclair ZX81 systems that have 16KB of memory]( /Implementation_READMEs/Imp00001--README.md)
 
 
 ### Legal / Licencing Information
