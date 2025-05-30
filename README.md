@@ -81,15 +81,14 @@ The implementations that have currently been released are as follows:
 
 ### Legal / Licencing Information
 
-GCN Ghost Chase was forked from "Ghost Chase" by Neal
-Cavalier-Smith and Graham White, published in 1983 in the book
-"49 Explosive Games for the ZX Spectrum" by Interface Publications
-which was authored by Tim Hartnell - ISBN 0 907563 53 8.
+GCN Matrix was forked from "Matrix" by T.J. Marrow/James Marrow,
+published in the June 1983 issue of "Sinclair Programs" magazine
+by ECC Publications of London in 1983 - ISSN No. 0263-0265.
 
 Copyright remains with the current copyright owners.
 
-GCN Ghost Chase and it's developers are not affiliated or endorsed
-by any former or current copyright owners of Ghost Chase.
+GCN Matrix and it's developers are not affiliated or endorsed
+by any former or current copyright owners of Matrix.
 
 This program is provided "AS IS" WITHOUT ANY WARRANTY; without
 even the implied warranty of MERCHANTABILITY or FITNESS FOR A
