@@ -20,8 +20,8 @@ any textual communication shall be in the language "British English".
 - Download & Changelog
 
   [Changelog]( ../Changelogs/GCN_Matrix-tA-Imp00001-Changelog.txt)\
-  [Version 1 - .TAP file and 48 BASIC Source Code]( https://github.com/SABrereton/GCN_Ghost_Chase--Type_A/releases/download/Imp00001-v1/GCN_Ghost_Chase-tA-Imp00001-v1.zip )
+  [Version 1 - .p file and 8K BASIC Source Code]( https://github.com/SABrereton/GCN_Ghost_Chase--Type_A/releases/download/Imp00001-v1/GCN_Ghost_Chase-tA-Imp00001-v1.zip )
 
 - Images
 
-  [Version 1 - Running on the Sinclair ZX81 emulator 81 v0nn.nnn](../Images/imp00001-v1--capture01.png "version 1 of implementation Imp00001")
+  [Version 1 - Running on the Sinclair ZX81 emulator EightOne Version 1.30](../Images/imp00001-v1--capture01.png "version 1 of implementation Imp00001")
