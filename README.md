@@ -28,11 +28,10 @@ Implementations are forks of GCN Matrix - Type A. The concept behind
 this scheme is to provide flexibility to attempt to "implement" the
 same general program using different development methods.
 
-The implementations that have currently been released are as follows:
-
 The implementations that have currently been released can be found via the following methods:
 
-- [Imp00001 - Target platform(s): Hardware and software that is compatible with Sinclair ZX81 systems that have 16KB of memory]( /Implementation_READMEs/Imp00001--README.md)
+- [Listed by number]( /Implementation_Listings/Imp_List--by_number.md)
+- [Listed by target platform(s)]( /Implementation_Listings/Imp_List--by_target_platform.md)
 
 
 ### Legal / Licencing Information
