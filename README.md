@@ -30,6 +30,8 @@ same general program using different development methods.
 
 The implementations that have currently been released are as follows:
 
+The implementations that have currently been released can be found via the following methods:
+
 - [Imp00001 - Target platform(s): Hardware and software that is compatible with Sinclair ZX81 systems that have 16KB of memory]( /Implementation_READMEs/Imp00001--README.md)
 
 
