@@ -7,7 +7,7 @@
 
 ### Implementations listed by target platform
 
-- [ Hardware and software that is compatible with Sinclair ZX81 systems that have 16KB of memory ]
+- Sinclair ZX81 systems that have 16KB of memory compatible Hardware and software
 
     - [Imp00001]( ../Implementation_READMEs/Imp00001--README.md)
 
