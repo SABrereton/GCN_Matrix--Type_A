@@ -23,7 +23,7 @@ any textual communication shall be in the language "British English".
 - Download & Changelog
 
   [Changelog]( ../Changelogs/GCN_Matrix-tA-Imp00002-Changelog.txt)\
-  [Version 1 - .p file and 8K BASIC Source Code]( https://github.com/SABrereton/GCN_Matrix--Type_A/releases/download/Imp00002-v1/GCN_Matrix-tA-Imp00002-v1.zip )
+  [Version 1 - .TAP file and 48 BASIC Source Code]( https://github.com/SABrereton/GCN_Matrix--Type_A/releases/download/Imp00002-v1/GCN_Matrix-tA-Imp00002-v1.zip )
 
 - Images
 
