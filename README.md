@@ -10,7 +10,7 @@ GCN Matrix - Type A.
 
 ### About GCN Matrix - Type A
 
-GCN Ghost Chase is an strategy style game developed by Stuart Antony
+GCN Matrix is an strategy style game developed by Stuart Antony
 Brereton and the Great Collective Nobody.
 
 GCN Matrix was forked from "Matrix" by T.J. Marrow/James Marrow,
