@@ -1,0 +1,173 @@
+
+                         GCN Matrix - Type A
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                        Implemention: Imp00002           
+                        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                  
+                              Changelog
+                              ¯¯¯¯¯¯¯¯¯
+
+
+=== Version 1 - [18-06-2025] ===
+
+Initial version.
+
+
+Consists of a conversion of...
+
+...Version 1 of Implemention Imp00001 of GCN Matrix - Type A which is
+in a form targetted at hardware and software that is compatible with
+Sinclair ZX81 systems that have 16KB of memory, predominantly uses the
+Sinclair 8K BASIC programming language and any textual communication
+is in the language "British English"...
+
+...to...
+
+...a form targetted at hardware and software that is compatible with
+Sinclair ZX Spectrum systems that have 48KB of memory, predominantly
+uses the Sinclair 48 BASIC programming language and any textual
+communication is in the language "British English".
+
+
+Notes, observations and/or changes follow:
+
+    * Unlike ZXText2P which was used to compile Version 1 of Imp00001,
+      BAS2TAP v2.5 which was used to compile this version of Imp00002
+      does not provide a means to include source code comments within
+      a source code file so had to use REM statements instead.
+
+    * Due to the increased speed at which the Sinclair ZX Spectrum
+      runs over the Sinclair ZX81, delays were added using the PAUSE
+      function at selected points in the source code to slow down the
+      program's evecution.
+
+
+----------------------------------------------------------------------
+changelog ABOVE: GCN Matrix - Type A - Implemention: Imp00002
+
+
+++++ Forked from Version 1 of
+++++ GCN Matrix - Type A - Implemention: Imp00001
+
+
+changelog BELOW: GCN Matrix - Type A - Implemention: Imp00001
+----------------------------------------------------------------------
+
+
+=== Version 1 - [24-05-2025] ===
+
+Initial version.
+
+Consists of a fork from the type-in program "Matrix" as published
+in the June 1983 issue of "Sinclair Programs" magazine.
+
+Used the process of entering the listing of "Matrix" into a text based
+.bas file and using the program "ZXText2P" to compile the .bas file
+into a .p file format which can be read by Sinclair ZX81 compatible
+hardware and software.
+
+Notes, observations and/or changes follow:
+
+    * 8K BASIC source code accepted by ZXText2P is not 100% compatible
+      with Sinclair 8K BASIC.
+
+    * In Sinclair 8K BASIC when using the PRINT command, in-order to
+      display the quote symbol (") within a string a second quote
+      symbol must be used as the prefix in an escape code
+      sequence ("").
+      
+      ZXText2P which was used to compile this version instead requires
+      that the backslash character (\) be used as the prefix in escape
+      code sequences so the requisite changes had to be made
+      throughout the program code before ZXText2P would compile the
+      program.
+
+    * ZXText2P enables the use of source code comments by ignoring
+      lines beginning with a # character during the compilation
+      process thus saving space/memory in the outputted .p by
+      reducing the need to use REM statements. With this in mind this
+      method was used for source code comments.
+
+    * Added a section to the beginnning of the program's source code
+      designed to provide some information about the program to anyone
+      looking at the source code.
+
+    * Added a "Main Menu" screen and made this the point at which the
+      program opens up to users.
+      
+      From the Main Menu users can select from a number of actions
+      which includes playing the Matrix game and exiting the program.
+      
+    * Added a series of screens with credit and credit related
+      information on them which are accessible from the "Main Menu"
+      screen.
+
+    * Added a series of screens with instructional information on them
+      which are accessible from the "Main Menu" screen.
+
+    * Added a two player mode. Second player has seperate controls to
+      let both players simultaneously have access to keyboard so no
+      need to keep swapping who is near keyboard.
+
+    * Changed Player One controls to use [A] & [Z] keys for cursor
+      movement and [X] to select a number and set Player Two controls
+      to [O] & [P] keys for cursor movement and [K] to select a
+      number.
+
+    * Swapped number selection between Player One and CPU player.
+      Player One now selects numbers vertically and CPU player selects
+      numbers horizontally.
+
+    * Set Player Two movement to select numbers horizontally.
+
+    * Changed the button used to end a game early from the [U] key to
+      the [5] key. Also ensured that this can only be used upon the
+      turn of player 1 to ensure that both players have had an equal
+      number of turns when the game is ended.
+
+    * No longer request that players input a name to be used
+      throughout a game as it seemed a bit superfluous, taking up
+      memory for little purpose.
+
+      Instead using the labels "Player 1", "CPU" and "Player 2",
+      output as string literals.
+
+    * Fixed the Matrix not being randomised by seeding the random
+      number generator based on the system's internal clock whenever
+      a new game is being prepared.
+
+    * Changed the screen displayed pre-game whilst the Matrix is
+      randomised from a static screen with a "please wait" style
+      message to a screen featuring a countdown conveying a visual
+      representation of progress to users.
+
+    * Made the Matrix center aligned on the game screen instead of
+      left aligned.
+
+    * On the game screen - Inverted the colours of the text informing
+      of who's turn it currently is in an attempt to make it stand out.
+
+    * A game now ends when there are no numbers left in the Matrix not
+      when there are no numbers available to select from the current
+      cursor position. If there are no numbers to select from the
+      current position then the cursor is now automatically moved to a
+      position containing a number.
+
+    * Altered the "Game Over" screen both in terms of the what is
+      displayed and where it is positioned. Also added the option to
+      either play another game or return to the "Main Menu" screen.
+
+    * Altered some existing variable names to be more meaningful and
+      tried to use meaningful names for new variables.
+
+
+----------------------------------------------------------------------
+changelog ABOVE: GCN Matrix - Type A - Implemention: Imp00001 
+
+
+++++ Forked from the type-in program "Matrix" as published
+++++ in the June 1983 issue of "Sinclair Programs" magazine.
+
+
+changelog BELOW: N/A
+----------------------------------------------------------------------
