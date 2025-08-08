@@ -23,13 +23,13 @@ any textual communication shall be in the language "British English".
 - Download & Changelog
 
   [Changelog]( ../Changelogs/GCN_Matrix-tA-Imp00002-Changelog.txt)\
-  [Version 1 - .TAP file and 48 BASIC Source Code]( https://github.com/SABrereton/GCN_Matrix--Type_A/releases/download/Imp00002-v1/GCN_Matrix-tA-Imp00002-v1.zip )\
-  [Version 2 - .TAP file and 48 BASIC Source Code]( https://github.com/SABrereton/GCN_Matrix--Type_A/releases/download/Imp00002-v2/GCN_Matrix-tA-Imp00002-v2.zip )
+  [Version 2 - .TAP file and 48 BASIC Source Code]( https://github.com/SABrereton/GCN_Matrix--Type_A/releases/download/Imp00002-v2/GCN_Matrix-tA-Imp00002-v2.zip )\
+  [Version 1 - .TAP file and 48 BASIC Source Code]( https://github.com/SABrereton/GCN_Matrix--Type_A/releases/download/Imp00002-v1/GCN_Matrix-tA-Imp00002-v1.zip )
 
 - Images
 
-  [Version 1 - Running on the Sinclair ZX Spectrum emulator InkSpector v2.0.0.51](../Images/Imp00002-v1--capture01.png "Version 1 of implementation Imp00002")\
-  [Version 2 - Running on the Sinclair ZX Spectrum emulator InkSpector v2.0.0.51](../Images/Imp00002-v2--capture01.png "Version 2 of implementation Imp00002")
+  [Version 2 - Running on the Sinclair ZX Spectrum emulator InkSpector v2.0.0.51](../Images/Imp00002-v2--capture01.png "Version 2 of implementation Imp00002")\
+  [Version 1 - Running on the Sinclair ZX Spectrum emulator InkSpector v2.0.0.51](../Images/Imp00002-v1--capture01.png "Version 1 of implementation Imp00002")
 
 ---
 
