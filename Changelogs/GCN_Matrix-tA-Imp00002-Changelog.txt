@@ -8,6 +8,19 @@
                               ¯¯¯¯¯¯¯¯¯
 
 
+=== Version 2 - [06-08-2025] ===
+
+* Altered the algorithm used when a participant can't take their turn.
+
+  The cursor now moves to a random position containing a number
+  instead of the last X and Y position in the Matrix which contained a
+  number when checking if the Matrix has been emptied.
+
+* When a participant can't take their turn a message is now displayed
+  informing participants of the situation and of the cursor being
+  relocated.
+
+
 === Version 1 - [18-06-2025] ===
 
 Initial version.
