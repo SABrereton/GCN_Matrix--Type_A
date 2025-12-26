@@ -11,7 +11,7 @@ The purpose of this document is to provide some information about
 GCN Matrix - Type A - Imp00002.
 
 
-### About GCN Matrix - Type A - Imp00001
+### About GCN Matrix - Type A - Imp00002
 
 The purpose of this implementation is to predominantly use the
 Sinclair 48 BASIC programming language to develop versions of
